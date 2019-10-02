@@ -1,0 +1,31 @@
+h1 {
+    color: #111e6c;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    color: #0f52ba;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3 {
+    color: #4682b4;
+}
+
+#www {
+    border-top: solid;
+    border-bottom: solid;
+}
+
+#webserver {
+    border-bottom: solid;
+}
+
+#webclient {
+    border-bottom: solid;
+}
+
+#copyright {
+    border-bottom: solid;
+}
